@@ -1,0 +1,6 @@
+path: C:\Users\Public\Documents\Project_detect_emotion\DetectEmtion  
+train: images/train             # đường dẫn tương đối đến ảnh train
+val: images/val                 # đường dẫn tương đối đến ảnh val
+
+nc: 1                           # số lượng lớp (1 lớp: face)
+names: ['face']                # tên lớp
